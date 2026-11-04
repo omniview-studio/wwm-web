@@ -433,7 +433,7 @@ body {
 
 /* 9:16 Image Size */
 .vertical-item {
-  width: 320px;
+  width: 180px;
   aspect-ratio: 9 / 16;
   height: auto;
   object-fit: cover;
